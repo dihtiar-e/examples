@@ -1,0 +1,11 @@
+body {
+  font-size: 16px;
+}
+
+.is-lg {
+  font-size: 2rem;
+}
+
+.is-xs {
+  font-size: 0.5rem;
+}

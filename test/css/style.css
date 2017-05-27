@@ -1,0 +1,57 @@
+* {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.is-red {
+    text-align: justify;
+    color: red;
+}
+
+.is-green {
+    color: green;
+}
+
+.is-italic {
+    font-style: italic;
+}
+
+.is-bold {
+    font-weight: 900;
+}
+
+.is-blue {
+    color: blue;
+}
+
+.is-dark-red {
+    color: #8B0000;
+}
+
+.text-lg {
+    font-size: 25px;
+}
+
+.is-pink {
+    color: #CD1076;
+}
+
+.text-sm {
+    text-align: center;
+    font-size: 14px;
+}
+
+.text-xl {
+    text-align: center;
+    font-size: 40px;
+}
+
+.is-orang {
+    color: orange;
+}
+
+
+/*xs - самый маленький extra small
+sm - маленький small
+md - средний meddium
+ lg - большой large
+ */

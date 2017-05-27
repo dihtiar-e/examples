@@ -1,0 +1,126 @@
+* {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family:16px;
+}
+
+.is-lg {
+    font-size:2.5rem;
+}
+
+.is-red {
+    text-align: center;
+    color: red;
+}
+
+.is-green {
+    color: green;
+}
+
+.is-italic {
+    font-style: italic;
+}
+
+.is-black {
+    color: black;
+}
+.is-pink{
+color:#CD1076;
+}
+
+.ol-orange{
+  color: orange;
+  list-style-type: decimal;
+}
+
+.ul-black{
+  color: black;
+  list-style-type: circle;
+  }
+.ol{
+  list-style-type: lower-roman;
+}
+
+.li-red{
+  color: red;
+}
+
+.li-blue{
+  color: blue;
+}
+
+.li-green{
+  color: green;
+}
+
+.table-one{
+text-align: center;
+}
+
+.td-blue{
+  color: blue;
+  }
+
+.td-red{
+  color: red;
+}
+
+.td-green{
+  color: green;
+}
+
+.is-bg-yellow{
+  background-color: yellow;
+}
+
+.is-blue{
+  color: blue;
+}
+
+.is-bg-burlywood{
+  background-color:#DEB887;
+}
+
+.is-right{
+  text-align: right;
+}
+
+.is-yellow{
+  color: yellow;
+}
+
+.is-bg-blue{
+  background-color: blue;
+  text-align: center;
+}
+
+.is-center{
+  text-align: center;
+  font-weight: 600;
+}
+
+  .is-bg-green{
+  background-color: green;
+  font-weight: 600;
+}
+.is-underline{
+text-decoration:underline;
+}
+
+.is-bg-Cyan2{
+background-color:#00EEEE;
+}
+
+.is-bg-darkorange{
+background-color:#EE7600;
+}
+
+.is-bg-red{
+background-color:red;
+}
+
+.is-bg-purple{
+background-color:#7D26CD;
+}

@@ -1,0 +1,142 @@
+
+/*шрифт,розмер,стиль*/
+
+* {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: 16px;
+}
+
+.is-lg {
+    font-size: 2.5rem;
+}
+
+.is-italic {
+    font-style: italic;
+}
+
+.is-center {
+    text-align: center;
+}
+
+.is-weight{
+    font-weight: 600;
+}
+
+.is-right {
+    text-align: right;
+}
+
+.is-underline {
+    text-decoration: underline;
+}
+
+.is-right {
+    text-align: right;
+}
+
+
+/*цвет текста*/
+
+.is-red {
+    color: red;
+}
+
+.is-green {
+    color: green;
+}
+
+.is-black {
+    color: black;
+}
+
+.is-pink {
+    color: #CD1076;
+}
+
+.is-blue {
+    color: blue;
+}
+
+.is-right {
+    text-align: right;
+}
+
+.is-blue {
+    color: blue;
+}
+
+.is-yellow {
+    color: yellow;
+}
+
+.is-orange {
+    color: orange;
+    }
+
+.is-brown{
+  color:#8B2323;
+}
+/*заливка*/
+
+.is-bg-yellow {
+    background-color: yellow;
+}
+
+.is-bg-burlywood {
+    background-color: #DEB887;
+}
+
+.is-bg-blue {
+    background-color: blue;
+    }
+
+.is-bg-green {
+    background-color: green;
+    font-weight: 600;
+}
+
+.is-bg-cyan {
+    background-color: #00EEEE;
+}
+
+.is-bg-darkorange {
+    background-color: #EE7600;
+}
+
+.is-bg-red {
+    background-color: red;
+}
+
+.is-bg-purple {
+    background-color: #7D26CD;
+}
+
+.is-bg-chartreuse{
+    background-color: #00FF00;
+}
+/*список*/
+
+.ol-orange {
+    color: orange;
+    list-style-type: decimal;
+  }
+
+.ul-circle {
+    color: black;
+    list-style-type: circle;
+}
+
+.ol {
+    list-style-type: lower-roman;
+}
+
+.ul-dick {
+  list-style-type: disc;
+}
+
+.ul-square{
+  list-style-type:square;
+}
